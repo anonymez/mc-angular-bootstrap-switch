@@ -1,0 +1,29 @@
+{
+  "name": "mc-angular-bootstrap-switch",
+  "version": "0.1",
+  "author": {
+    "name": "Filippo Gaudenzi",
+    "email": "filippo.gaudenzi@moon-cloud.eu"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/anonymez/angular-bootstrap-switch.git"
+  },
+  "licenses": [
+    {
+      "type": "Apache License 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    }
+  ],
+  "main": "dist/angular-bootstrap-switch.js",
+  "dependencies": {
+    "angular": ">=1.4.0",
+    "jquery": ">=1.9.0",
+    "bootstrap": ">=2.3.2",
+    "bootstrap-switch": "~3.3.4"
+  },
+  "devDependencies": {
+    "angular-mocks": ">=1.4.0",
+    "angular-scenario": ">=1.4.0"
+  }
+}
